@@ -12,7 +12,7 @@ React/Redux/Router
 Testing with Jest/Enzyme/FetchMock
 
 #### APIs:
-PetFinder & Google Maps
+- PetFinder & Google Maps
 
 #### Wireframes
 
@@ -31,6 +31,12 @@ PetFinder & Google Maps
 * Try to actually TDD
 
 #### MVP
+
+- user can filter by location 
+- user can 'dogear' a dog 
+- user can see shelters on map 
+- dog show page. 
+
 All items listed under Order of Attack.
 
 #### Nice To Haves
