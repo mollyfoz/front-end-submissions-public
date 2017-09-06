@@ -15,6 +15,11 @@ Testing with Jest/Enzyme/FetchMock
 - PetFinder & Google Maps
 
 #### Wireframes
+[Home Page](https://user-images.githubusercontent.com/23444655/30126796-5f50edd2-92fa-11e7-8a22-8c5d616496db.png)
+[Category Page](https://user-images.githubusercontent.com/23444655/30126798-62e10572-92fa-11e7-9dd8-c4100c75cffd.png)
+Note home page and category pages will be relatively similar, but will filter by cat/dog/all pets. Category page will scroll.
+[Single Pet View](https://user-images.githubusercontent.com/23444655/30126807-66d8edf2-92fa-11e7-9857-27f0ef7b989f.png)
+[Color Palette](https://color.adobe.com/Color-Theme-2-color-theme-9953340/edit/?copy=true)
 
 #### Waffle & Github
 [GitHub: FureverFriends](https://github.com/mollyfoz/FureverFriends)
